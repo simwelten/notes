@@ -5,6 +5,7 @@
 ### Installing Docker
 
 *	[Ubuntu](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/)
+*	[Fedora](https://docs.docker.com/engine/installation/linux/docker-ce/fedora/)
 *	[Windows](https://docs.docker.com/docker-for-windows/install/)
 *	[Getting started](https://docs.docker.com/get-started/)
 
