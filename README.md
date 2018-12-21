@@ -32,7 +32,3 @@ docker pull simwelten/jupyter:latest
 
 *	[Python 3 tutuorial](https://gitlab.erc.monash.edu.au/andrease/Python4Maths) is already in the container
 
-## Data
-	
-*	[S-Bahn Stuttgart RIS-Archiv-Daten](http://data.deutschebahn.com/dataset/data-s-bahn-stuttgart-ris-archiv-daten) - in the container as well
-
