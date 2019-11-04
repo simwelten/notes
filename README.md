@@ -6,7 +6,8 @@
 
 *	[Ubuntu](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/)
 *	[Fedora](https://docs.docker.com/engine/installation/linux/docker-ce/fedora/)
-*	[Windows](https://docs.docker.com/docker-for-windows/install/)
+*	[Windows 10 Pro/Enterprise/Education](https://docs.docker.com/docker-for-windows/install/)
+* [Windows 7, 8, 10 Home](https://docs.docker.com/toolbox/toolbox_install_windows/)
 *	[Getting started](https://docs.docker.com/get-started/)
 
 ### Starting python container
